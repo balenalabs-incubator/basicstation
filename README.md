@@ -2,7 +2,7 @@
 
 ## This project is deprecated! You can see the balena basicstation updated here
 
-[https://github.com/xoseperez/basicstation](https://github.com/xoseperez/basicstation)
+[https://github.com/xoseperez/basicstation-docker](https://github.com/xoseperez/basicstation-docker)
 
 ---
 
